@@ -383,7 +383,7 @@ public class Calculator {
                     } else {
                         inText.setText(String.valueOf(val));
                     }
-                    opt = 'U+221A';
+                    opt = '\u221A';
                     addWrite = false;
                 }
         });
