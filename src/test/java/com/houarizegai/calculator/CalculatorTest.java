@@ -30,6 +30,7 @@ class CalculatorTest {
             Assertions.assertEquals(243, calculator.calc(first, second, '^'));
         } catch (Exception e) {
             e.printStackTrace();
+            //commit
         }
 
     }
